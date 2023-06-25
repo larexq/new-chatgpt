@@ -1,4 +1,4 @@
-# � Yeni ChatGPT Altyapı
+# ✏ Yeni ChatGPT Altyapı
 
 - **config.json** dosyasından **token** bilgilerini ayarla.
 - **events -> ready.js** dosyasından botun durumunu değiştirebilirsin.
